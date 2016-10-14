@@ -1,0 +1,7 @@
+body{
+    font-family: Century Gothic;
+}
+.circle{
+    border-radius:100%;
+    overflow:hidden;
+}
